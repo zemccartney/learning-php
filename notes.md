@@ -3,6 +3,8 @@
 - What's the difference between using PHP's built-in server and the Apache server that comes
 with Macs? Pros and cons?
 
+- "Note: Unlike other programming languages, PHP has no command for declaring a variable. It is created the moment you first assign a value to it." ( https://www.w3schools.com/php/php_variables.asp )
+   - WHAT???
 
 
 # INTERESTING NOTES
