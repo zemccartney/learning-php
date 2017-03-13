@@ -15,3 +15,10 @@ with Macs? Pros and cons?
 
 - Note on PHP server logging "unexpected E0F errors" on file execution
   - http://stackoverflow.com/questions/29141240/php-local-server-invalid-request-unexpected-eof
+
+# Differences from JS
+
+- Closure! Not one way, totally closed off
+- Classical, not prototypal inheritance?
+- xor operator
+   - How useful is this? Why isn't this in JS?

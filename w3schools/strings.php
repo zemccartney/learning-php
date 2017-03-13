@@ -14,9 +14,17 @@ $example = "Postcone Jones";
 
 
 // strpos returns false if needle not found
+/*
 $booly = strpos($example, 'anoos');
 
 echo $booly;
 if ( $booly == true ) {
     echo 'meat';
 }
+*/
+
+// str_replace replaces ALL instances of the word, keep in mind 
+$replacer = "Jones postcone Jones";
+$zzz = str_replace("Jones", "fart", $replacer);
+
+echo $zzz;
